@@ -1,0 +1,144 @@
+body {
+   margin: 0;
+}
+.info img {
+    height: 200px;
+    width: auto;
+    flex-direction: column;
+}
+.button {
+    background-color: #3882f6;
+    color: white;
+    border: white;
+    border-radius: 8px;
+    padding: 10px;
+    width: 100px;
+    font-weight: 900px;
+}
+.container_1 {
+    background-color: #1F2937;
+    color: white;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 100px;
+    padding-top: 20px;
+ } 
+ .a {
+        text-decoration: none;
+        color: white;
+        gap: 16px;
+    }
+.logo {
+    height: 90px;
+    width: auto;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.links{
+display: flex;
+gap: 40px;
+}
+.content_1 {
+    display: flex;
+    flex-direction: column;
+}
+.headline {
+    margin-top: 50px;
+    font-size: 48px;
+    font-weight: 900;
+    max-width: 600px;
+    margin-bottom: 10px;  
+}
+.imagec {
+    display: flex; 
+    justify-content: space-between;
+    align-items: center;
+}
+.Underline {
+margin-bottom: 10px;
+}
+.card {
+    height: auto;
+    width: 300px;
+    display: flex;
+    margin-top: 50px;
+}
+
+.h1 {
+    text-align: center;
+}
+.container_2 {
+    gap: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    height: 250px;
+}
+.text{
+    display: flex;
+    justify-content: center;
+}
+.container_3 {
+    background-color: #e5e7eb;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.initial {
+    margin-left: 900px;
+    font-weight: 900;   
+}
+.descriptor {
+    color: #1f2937;
+    font-style: italic;
+    font-size: 36px;
+    max-width: 1000px;   
+}
+.container_4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+}
+.signup {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 700px;
+    height: 60px;
+}
+.call{
+    font-size: large;
+    font-weight: 900;
+    margin-right: 173px;
+}
+.buttonsign {
+    display: flex;
+    background-color: #3882f6;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    border-radius: 8px;
+    padding: 30px;
+   
+}
+.button2 {
+    background-color: #3882f6;
+    color: white;
+    border: white 2px solid;
+    border-radius: 8px;
+    padding: 10px;
+    width: 100px;
+    font-weight: 900px;
+    height: auto;
+    font-weight: 900;
+}
